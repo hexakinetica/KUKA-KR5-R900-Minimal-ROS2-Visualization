@@ -22,9 +22,10 @@ This repository provides a **minimal ROS 2 package** that visualizes the **KUKA 
 1. Ensure ROS2 Humble installed
 2. Open Terminal in kuka-r900 folder
 3. Run:
-        colcon build --symlink-install --packages-select kuka-r900-description
-        source install/setup.bash
-        ros2 launch kuka-r900-description view_robot.launch.py
+   ```bash
+   colcon build --symlink-install --packages-select kuka-r900-description
+   source install/setup.bash
+   ros2 launch kuka-r900-description view_robot.launch.py
 
 
 ### 👨‍🔬 Applications

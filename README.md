@@ -1,12 +1,12 @@
-# KUKA-KR5-R900-Minimal-ROS2-Visualization
+## KUKA-KR5-R900-Minimal-ROS2-Visualization
 
-### 🦾 Minimal mouse-controlled ROS 2 visualization of the KUKA KR5 R900 sixx industrial robot
+#### 🦾 Minimal mouse-controlled ROS 2 visualization of the KUKA KR5 R900 sixx industrial robot
 
 This repository provides a **minimal ROS 2 package** that visualizes the **KUKA KR5 R900 sixx** robot in **RViz2** using a simple URDF and mouse-controlls. Quick, visual way to explore the robot model without setting up complex controllers or simulation environments.
 
 ![Screenshot](Screenshot.jpg)
 
-## 📌 Features
+### 📌 Features
 
 - ✅ Minimalistic URDF-based KUKA KR5 R900 model
 - ✅ Interactive 3D visualization via RViz2
@@ -17,7 +17,7 @@ This repository provides a **minimal ROS 2 package** that visualizes the **KUKA 
 > 🎥 **Watch on YouTube**: [Demo Video](https://youtu.be/zOlP1SSh640)
 
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 1. Ensure ROS2 Humble installed
 2. Open Terminal in kuka-r900 folder
@@ -27,7 +27,7 @@ This repository provides a **minimal ROS 2 package** that visualizes the **KUKA 
         ros2 launch kuka-r900-description view_robot.launch.py
 
 
-## 👨‍🔬 Applications
+### 👨‍🔬 Applications
 
 - Introductory ROS 2 robotics learning
 - Quick visualization for robot URDF validation
@@ -35,7 +35,7 @@ This repository provides a **minimal ROS 2 package** that visualizes the **KUKA 
 - Lightweight base for further development (e.g., MoveIt2, Gazebo)
 
 
-## 🧩 Related Projects
+### 🧩 Related Projects
 
 - More robotics content on our [YouTube channel](https://www.youtube.com/@hexakinetica)
 

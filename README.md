@@ -8,11 +8,11 @@ This repository provides a **minimal ROS 2 package** that visualizes the **KUKA 
 
 ### 📌 Features
 
-- ✅ Minimalistic URDF-based KUKA KR5 R900 model
-- ✅ Interactive 3D visualization via RViz2
-- ✅ Mouse-controlled joint coordinates
-- ✅ Clean and simple ROS 2 package structure
-- ✅ Works out of the box with ROS 2 Humble and newer
+- Minimalistic URDF-based KUKA KR5 R900 model
+- Interactive 3D visualization via RViz2
+- Mouse-controlled joint coordinates
+- Clean and simple ROS 2 package structure
+- Works out of the box with ROS 2 Humble and newer
 
 > 🎥 **Watch on YouTube**: [Demo Video](https://youtu.be/zOlP1SSh640)
 
